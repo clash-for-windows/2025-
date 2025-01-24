@@ -21,7 +21,7 @@
 </header>
 
 
-## [呆鹅云-推荐★★★](https://docs.github.com/en/get-started/quickstart/github-glossary)
+## [呆鹅云-推荐★★★](https://www.sillygoose.icu/#/register?code=BZ02ffHC)
 
 呆鹅云是一家提供稳定翻墙服务的机场。机场节点分布在亚洲，美洲等多个地区，支持Netflix、HBO、Disney+等流媒体解锁，TikTok 和 ChatGPT 解锁支持度也很好。呆鹅云提供通用的订阅格式，支持Clash、Shadowrocket、Surge、Quantumult X、Stash、V2rayN等常见客户端，适用于Windows、安卓、苹果以及Linux系统。
 
