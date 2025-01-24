@@ -28,7 +28,7 @@
 呆鹅云提供三种套餐：新手(150G)、专业(300G)、旗舰(1000G)，可以满足不同需求的用户，其中新手套餐非常有性价比，且不限制设备数量。
 
 
-## [V2NET-推荐★★★](http://x.v2ray.cx/aff.php?aff=3913#V2NET-推荐★★★)
+## [V2NET-推荐★★★](http://x.v2ray.cx/aff.php?aff=3913)
 
 保护您的网路连线，简单又划算
 采用先进 REALITY 协议
@@ -40,28 +40,28 @@
 支持Clash、Shadowrocket、Surge、Quantumult X、Stash、V2rayN等常见客户端，适用于Windows、安卓、苹果以及Linux系统。
 
 
-## [疾风云-推荐★★★](https://homes.tr25.cn?code=N8pw#疾风云-推荐★★★)
+## [疾风云-推荐★★★](https://homes.tr25.cn?code=N8pw)
 
 JFCloud疾风云机场是一家实力雄厚的老牌机场的新开分站，JFCloud专注于提供中高端的网络加速服务，拥有它覆盖多个中国用户常用的国家和地区。JFCloud支持ShadowsocksR、V2Ray及Trojan多种协议，支持主流翻墙客户端。
 
 JFCloud提供稳定的上网服务，无论是流媒体解锁还是日常上网，都能满足需求。
 
 
-## [CyberGuard](https://www.cyberguard.best/#/register?code=NrAyC7pV#CyberGuard)
+## [CyberGuard](https://www.cyberguard.best/#/register?code=NrAyC7pV)
 
 CyberGuard机场，也称为CG加速器，是在2023年成立的新机场，使用Shadowsocks协议，并提供公网中转、IPLC和IEPL专线服务。这个机场的节点分布在香港、日本、韩国、新加坡、美国、德国和荷兰等地区。CyberGuard机场特别支持解锁包括流媒体服务，并且也支持ChatGPT的使用。
 
 CyberGuard同时提供按月付费和按流量付费的选项，不限设备数量。CyberGuard支持多种操作系统，包括iOS、Android、macOS、Windows和Linux。
 
 
-## [XXAI](https://xx-ai.co?invite_code=MwD7dU5t#XXAI)
+## [XXAI](https://xx-ai.co?invite_code=MwD7dU5t)
 
 XXAI 助力企业更高效地应用 AI 工具，多入口（广港/沪日/深港专线）全专线节点 IEPL/IPLC 内网传输断网期也能用, 低延迟游戏 & 直播专线。AI 智能连接，自动匹配全球最快的网络节点。针对主流 AI 工具特别优化节点更快的加载响应速度。
 
 XXAI 适合企业及游戏玩家，同时也能满足普通用户的日常需求。
 
 
-## [小旋风](https://cinb01.xxfaff.cc/#/register?inviteCode=F7877760028C#小旋风)
+## [小旋风](https://cinb01.xxfaff.cc/#/register?inviteCode=F7877760028C)
 
 小旋风是2024年新创办的新机场，采用IPLC专线，配合Trojan协议实现科学上网。小旋风全面解锁主流流媒体服务，包括HBO、Youtube、Netflix、Tiktok，并很好的支持ChatGPT等AI服务。同时提供企业定制服务。
 
@@ -70,28 +70,28 @@ XXAI 适合企业及游戏玩家，同时也能满足普通用户的日常需求
 使用本站专属优惠码[findladders]可享9折优惠，结合站内活动，最低可达54折。
 
 
-## [飞天猪](https://ftzvipaffcom06.fliggyvipaff.xyz/#/register?code=3algNBAo#飞天猪)
+## [飞天猪](https://ftzvipaffcom06.fliggyvipaff.xyz/#/register?code=3algNBAo)
 
 飞天猪是由海外团队运营的翻墙服务商，节点采用IPLC专线。支持解锁各种流媒体比如Nextfix、Disney、HBO等，同时解锁ChatGPT、Copilot等AI工具，并且不限制客户端，支持全平台使用。
 
 飞天猪提供飞天包年小包套餐，适用于流量使用少的用户，同时提供不同流量的包月套餐，供不同需求的用户使用
 
 
-## [龙猫云](https://inv02.lmaff01.cc/register?aff=zFmNYFly#龙猫云)
+## [龙猫云](https://inv02.lmaff01.cc/register?aff=zFmNYFly)
 
 龙猫云（Totoro Cloud）是一家较新成立的网络加速服务提供商，使用Shadowsocks协议并提供IPLC全专线服务。它支持常见流媒体解锁，也提供ChatGPT支持。机场主位于海外，支持企业定制，包括TikTok直播专线。
 
 龙猫云是一个提供全面服务的网络加速机场，适合追求稳定和高速网络连接的用户，尤其是需要解锁流媒体服务的用户。
 
 
-## [纸巾云](https://obb.papercloud.online/#/register?code=3GCWPtFI#纸巾云)
+## [纸巾云](https://obb.papercloud.online/#/register?code=3GCWPtFI)
 
 纸巾云是一家主打性价比的机场，在提供稳定可靠节点的同时，价格也设定的很低。纸巾云支持Shadowsocks、VMess等协议，支持多数翻墙客户端，包括V2RayNG、Clash Verge、Shadowrocket等。同时解锁了Netflix等流媒体服务。
 
 纸巾云提供轻量包年套餐，适合需求量不大的用户使用，同时提供小抽、中抽、大抽等不同价位的套餐，主打性价比，适合不同需求的用户，并且没有客户端数量限制。
 
 
-## [冲上云霄](https://cpdd.one/?r=48447#冲上云霄)
+## [冲上云霄](https://cpdd.one/?r=48447)
 
 三大线路模式-直连线路：高速传输、低延迟，适合日常使用。中转线路：优化跨境访问，提供更稳定的连接体验。专线线路：采用IEPL专线，保障极致网络质量。
 支持多平台客户端：适配市面上主流代理工具，轻松订阅、一键连接。
