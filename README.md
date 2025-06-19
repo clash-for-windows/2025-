@@ -133,6 +133,6 @@ XXAI 适合企业及游戏玩家，同时也能满足普通用户的日常需求
 
 ---
 
-Get help: [clash-for-windows.net](https://clash-for-windows.net/) 
+Get help: [clash-for-windows.net](https://clash-for-windows.net/) [clashvip.net](https://clashvip.net/) 
 
 </footer>
