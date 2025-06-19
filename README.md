@@ -21,6 +21,31 @@
 </header>
 
 
+## [白羊星-推荐★★★](https://baiyangxing.com/#/register?code=bkAdlVQX)
+
+专注于提供高速、安全、稳定的VPN服务。提供了安卓，鸿蒙，mac三端的自研app支持，及其他代理软件配置使用，套餐节点有50个之多,全球60多个地区，节点都解锁了流媒体，倍率都是1倍率。
+
+基础配置：12元/月，每月 100GB 流量；中级配置：25元/月，每月 300GB 流量；高级配置：48元/月，每月 800GB 流量
+
+白羊专属配置：188元/年，每月 230GB 流量
+
+
+## [TNTCloud-推荐★★★](https://tntvipaffb01.cc/#/register?code=DOF2zJ0x)
+
+IPLC全专线节点，原生IP ,   高防，所有套餐不限速无倍率，所有套餐只有流量区别，季付30元，原生IP解锁流媒体，包括Netflix、Disney+、HBO、HUGO等等，解锁Tiktok，解锁ChatGPT、Copilot、Gemini等AI工具
+晚高峰不限速、不限制客户端，提供美区id下载小火箭Shadowrocket
+客户端支持 ： Clash  Clash Meta  Singbox  v2rayn Loon  Shadowrocket  Stash  Surge  等，新人特惠85折：TNT85
+
+
+## [小蜜蜂-推荐★★★](https://a01.xmfvipaffa01.cc/dashboard)
+
+小蜜蜂是一家全IPLC专线机场，原生IP节点，海外团队，机场节点有多个热门小众节点、包含马来西亚、英国、阿根廷、泰国、巴西等等。解锁流媒体，包括Netflix、Disney+、HBO、HUGO等等，解锁Tiktok，解锁ChatGPT、Copilot、Gemini等工具，所有套餐不限速无倍率，提供小火箭下载id。
+
+特色套餐有98元年付、每月仅仅8元钱！
+
+618钜惠7折优惠码：xmfxmf7
+
+
 ## [呆鹅云-推荐★★★](https://www.sillygoose.icu/#/register?code=BZ02ffHC)
 
 呆鹅云是一家提供稳定翻墙服务的机场。机场节点分布在亚洲，美洲等多个地区，支持Netflix、HBO、Disney+等流媒体解锁，TikTok 和 ChatGPT 解锁支持度也很好。呆鹅云提供通用的订阅格式，支持Clash、Shadowrocket、Surge、Quantumult X、Stash、V2rayN等常见客户端，适用于Windows、安卓、苹果以及Linux系统。
