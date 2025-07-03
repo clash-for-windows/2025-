@@ -7,15 +7,15 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# 机场推荐
+# [机场推荐](https://clash-for-windows.net/85-2/)
 
 这是我们精细为您挑选的，请根据自己需求进行选择
 
-最新机场推荐-Clash机场/Shadowsocks机场/V2Ray机场
+最新机场推荐-[Clash机场](https://clashvip.net/85-2/)/Shadowsocks机场/V2Ray机场
 
-最新的机场推荐，通过对比市面上所有机场服务的稳定性、价格、知名度等，我们选出了其中几家比较可靠的服务商，供大家选择使用。适用于各种翻墙vpn软件，Clash/Clash for windows/Clash verge/ClashX meta/V2RayN/Shadowrocket等，另外还有节点订阅购买教程。
+[最新的机场推荐](https://clashhub.net/)，通过对比市面上所有机场服务的稳定性、价格、知名度等，我们选出了其中几家比较可靠的服务商，供大家选择使用。适用于各种翻墙vpn软件，Clash/Clash for windows/Clash verge/ClashX meta/V2RayN/Shadowrocket等，另外还有节点订阅购买教程。
 
-如果已经购买了机场，可以在这里选择合适的梯子工具/翻墙客户端配合使用。
+如果已经购买了机场，可以在这里选择合适的梯子工具/[翻墙客户端](https://clash-for-windows.net/290/)配合使用。
 
 
 </header>
@@ -133,6 +133,7 @@ XXAI 适合企业及游戏玩家，同时也能满足普通用户的日常需求
 
 ---
 
-Get help: [clash-for-windows.net](https://clash-for-windows.net/) [clashvip.net](https://clashvip.net/) 
+Get help: [clash-for-windows.net](https://clash-for-windows.net/) [clashvip.net](https://clashvip.net/) [clashhub.net](https://clashhub.net/) 
+
 
 </footer>
